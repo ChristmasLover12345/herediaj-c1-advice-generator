@@ -1,8 +1,11 @@
-# React + Vite
+// Juan Heredia 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ // Date Revised: 2/26/2025
 
-Currently, two official plugins are available:
+ // Advice Generator in React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ // made a simple card that when clicked gives you advice from an API
+
+ note: on the assignment description it says to use all assets given, but none of the examples seem to use the favicon.png, so I didnt use it.
+
+// Peer reviewed by:
